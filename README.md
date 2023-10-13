@@ -27,3 +27,13 @@ NotesSafe is an online notes-saving application that includes the feature of Aut
 <b>6) Search Details</b>
 
 ![Search Detials](img/search.png)
+
+<b>Application Features</b>
+
+<ol>
+  <li>Fragments (NavHostFragments)</li>
+  <li>Firebase (Authentication)</li>
+  <li>Save Notes</li>
+  <li>NVVM Architechture</li>
+  <li>Clean UI/UX</li>
+</ol>
